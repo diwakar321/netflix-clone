@@ -1,53 +1,51 @@
-# Netflix Clone (MERN)
-A full-stack Netflix Clone built using the MERN stack (MongoDB, Express, React, Node.js).
-Users can register, login, and browse movies just like Netflix.
+# 🎬 Netflix Clone (MERN Stack)
 
+A full-stack **Netflix Clone** built using the **MERN stack**  
+(MongoDB, Express.js, React, Node.js).
+
+Users can register, log in, and browse movies similar to Netflix.
+
+---
 
 ## ✨ Features
 - User Authentication (Register / Login with JWT)
+- Secure password hashing using Bcrypt
 - Browse Movies and TV Shows
-- Responsive UI (Frontend: React + CSS/Bootstrap)
+- Protected routes for authenticated users
+- Responsive UI using React & CSS
 - RESTful API with Express & MongoDB
-- Protected Routes for logged-in users
 
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React, Axios, Context API
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Authentication:** JWT & Bcrypt
-- **Version Control:** Git & GitHub
+### Frontend
+- React
+- Axios
+- Context API
+- CSS / Bootstrap
 
-- Live site Url :- https://netflix-clone-frontend-tau.vercel.app/
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- JWT Authentication
+- Bcrypt
 
+### Tools
+- Git & GitHub
+- Vercel (Frontend Deployment)
 
+---
+
+## 🌐 Live Demo
+👉 **Frontend URL:**  
+https://netflix-clone-frontend-tau.vercel.app/
+
+---
 
 ## 🚀 Installation & Setup
 
-### Clone the repository
+### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/diwakar321/netflix-clone.git
 cd netflix-clone
-
-
-cd backend
-npm install
-npm start
-
-
-cd frontend
-npm install
-npm start
-
-
-## 📂 Project Structure
-.
-├── backend/       # Express + MongoDB code
-├── frontend/      # React app
-├── .gitignore
-└── README.md
-
-
-## 👨‍💻 Author
-- **Diwakar Singh**
-- GitHub: [@diwakarsingh35](https://github.com/diwakarsingh35)
