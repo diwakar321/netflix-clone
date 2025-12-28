@@ -5,7 +5,7 @@ A full-stack **Netflix Clone** built using the **MERN stack**
 
 Users can register, log in, and browse movies similar to Netflix.
 
----
+------------------
 
 ## ✨ Features
 - User Authentication (Register / Login with JWT)
